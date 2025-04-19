@@ -1,0 +1,18 @@
+DB_PORT_DEV=20462
+DB_USER_DEV=kari-shop-db_owner
+DB_PASSWORD_DEV=AVNS_yw_eUv7XpHNMKSndzuN
+DB_NAME_DEV=defaultdb
+DB_HOST_DEV=pg-39a05330-karizm-shop.e.aivencloud.com
+APP_URL=http://localhost:3000
+PORT=3000
+JWT_SECRET=secretekcxxkccvkjcvjkcx
+EMAIL_USER=muhayimana21@gmail.com
+EMAIL_PASS=daue zpvx psqx godt
+CLOUDINARYNAME=dtl8gpxzt
+APIKEY=597733797192951
+APISECRET=Mw90n0YfIU6S-dvhZamx4W8pmKk
+GOOGLE_CLIENT_ID=436329016126-qb2rcpl1g88t6na51jd23o88ke991v0j.apps.googleusercontent.com
+GOOGLE_CLIENT_SECRET=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
+callbackURL=http://localhost:3000/api/user/auth/google/callback
+DATABASE_URL="postgresql://kari-shop-db_owner:djVObEYupn95@ep-muddy-mouse-a8nfg0ds.eastus2.azure.neon.tech/kari-shop-db?sslmode=require"
+FRONTEND_URL=http://localhost:5173
